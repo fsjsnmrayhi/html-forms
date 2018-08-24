@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+}
+#ada{
+     color: whitesmoke;
+}
+#lft{
+    display: inline-block;
+    vertical-align: top;
+    width:50%;
+    height:100%;
+    background-color:grey;
+    padding-left: 10px;
+}
+#rgt{
+    display:  inline-block;
+    width:30%;
+    height: 50%;
+    background-color:grey;
+    vertical-align: top;
+    padding-left: 20px;
+    padding-right:6px;
+}
+#iyadh{
+    display: inline-block;
+    vertical-align: top;
+    width:90%;
+    background-color: whitesmoke;
+}
+
+.alert {
+    display: none;
+}
